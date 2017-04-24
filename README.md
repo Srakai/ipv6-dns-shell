@@ -5,5 +5,5 @@ PoC of a ipv6 dns bind shell
   This connection tehinque may bypass some firewalls, and provide uniqe way of getting shell :)
  
  
-#Author
+# Author
 @Srakai (swientymateusz at gmail d0t com)
